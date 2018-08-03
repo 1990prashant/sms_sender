@@ -4,7 +4,7 @@ Allow ruby/rails application to send sms by using equence api. Visit <a href="ht
 # Installation
 <ol>
   <li>
-    Add sms_sender-1.0.0 to your gemfile
+    Add gem 'sms_sender', github: '1990prashant/sms_sender', branch: 'master' to your gemfile
   </li>
   <li>
     Run bundle install
